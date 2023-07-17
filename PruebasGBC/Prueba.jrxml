@@ -9,7 +9,12 @@
 		<band splitType="Stretch"/>
 	</background>
 	<title>
-		<band height="79" splitType="Stretch"/>
+		<band height="79" splitType="Stretch">
+			<staticText>
+				<reportElement x="20" y="20" width="113" height="21" uuid="90e877e1-3063-497f-8fd3-c3870c2f8386"/>
+				<text><![CDATA[PRUEBA TEST]]></text>
+			</staticText>
+		</band>
 	</title>
 	<pageHeader>
 		<band height="35" splitType="Stretch"/>
